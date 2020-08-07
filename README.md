@@ -1,2 +1,2 @@
 # Git-Folders-Java
-Contains many java for Android basic Vode to understand.
+Contains many java for Android basic Code to understand.
