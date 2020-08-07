@@ -1,4 +1,3 @@
-package co.me;
 
 import java.util.ArrayList;
 import java.util.Collection;
