@@ -18,6 +18,6 @@ public class process {
 			tries++;
 		  }
 		while (die1 != die2);
-		System.out.println("it took"+tries+"Attempt");
+		System.out.println("it took "+tries+" Attempt");
 	     }
 		}

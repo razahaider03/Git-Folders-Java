@@ -6,6 +6,6 @@ public class lambdaExpressionDemo {
            double d1=100;
            double d2=250;
            double d3=369;
-           System.out.println(->(d1>d2?1:d1<d2?-1:0));       
+           System.out.println(Double.compare(d1 , d2));
   }
 }

@@ -1,7 +1,7 @@
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Main{
+public class SetTree {
 	public static void main(String [] args)
 	{
 		//	Set<Integer> values = new HashSet<>(); // adds values randomly in HeapMemory 

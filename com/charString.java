@@ -1,5 +1,6 @@
+package com;
 
-public class main {
+public class charString {
 
   public static void main(String[] args) {
   // CHAR and STRING
